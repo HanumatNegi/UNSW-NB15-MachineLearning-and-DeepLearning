@@ -22,14 +22,23 @@ The attack class are counted using <b>dataset.values_count();</b> funstion of <b
 The Elements of Attack class are as follows:-
 
 Normal            37000
+
 Generic           18871
+
 Exploits          11132
+
 Fuzzers            6062
+
 DoS                4089
+
 Reconnaissance     3496
+
 Analysis            677
+
 Backdoor            583
+
 Shellcode           378
+
 Worms                44
 
 <img src="https://github.com/HanumatNegi/UNSW-NB15-MachineLearning-and-DeepLearning/blob/77d2f930c8d217d111f161881fa31dc716fc2796/images/Attack.png">
