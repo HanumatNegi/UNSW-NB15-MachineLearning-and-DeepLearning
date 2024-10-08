@@ -8,7 +8,7 @@
 Assignment:- Find Attack class , accuracy score, precision score, F1 score, ROC and FPR using Decision Tree, Random Forest and Artificial Neural Network.
 Here is an python file which comprises of ML and DL algorithms which are used on the training and testing sets of UNSW-NB15 dataset.
 
-![image alt]()
+![image alt](https://github.com/HanumatNegi/UNSW-NB15-MachineLearning-and-DeepLearning/blob/6c5545c6992d23e9b401e8b2c8d5cbe25ee02bee/images/ai.jpg)<\n>
 ML algorithms used:- Decision Tree Classifier, Random Forest Classifier
 
 
