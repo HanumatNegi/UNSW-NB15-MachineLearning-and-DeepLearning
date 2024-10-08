@@ -7,3 +7,7 @@ ML algorithms used:- Decision Tree Classifier, Random Forest Classifier
 
 
 DL algorithms used:- Artificial Neural Network
+
+
+<h3> What is UNSW NB-15</h3>
+<p><b>  Unsw Nb-15</b>dataset is a benchmark dataset used for network intrusion detection research. It was created by the Australian Centre for Cyber Security (ACCS) at the University of New South Wales (UNSW) in 2015. The dataset is designed to simulate real-world network traffic and to help researchers develop, test, and evaluate intrusion detection systems (IDS) and anomaly detection models.</p>
